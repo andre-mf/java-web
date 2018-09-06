@@ -152,7 +152,5 @@ public class Cardapio extends HttpServlet {
     public String getServletInfo() {
         return "Short description";
     }// </editor-fold>
-// Comentáriozinho
-// Mais um
-// Outro
+//Eliminei todos
 }
