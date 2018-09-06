@@ -152,5 +152,4 @@ public class Cardapio extends HttpServlet {
     public String getServletInfo() {
         return "Short description";
     }// </editor-fold>
-    // Depois de remover, colocou-se o comentário de volta 
 }
