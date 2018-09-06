@@ -152,5 +152,4 @@ public class Cardapio extends HttpServlet {
     public String getServletInfo() {
         return "Short description";
     }// </editor-fold>
-// New teste de volta
 }
