@@ -93,13 +93,13 @@
                             <%out.println(rs.getString("valor_venda"));%>
                             </td>
                             </tr>
-                    </table>
             <%
                 }
                 }catch(SQLException e){
                 out.println("Falha no banco de dados :"+e.getMessage());
                 }
             %>
+                    </table>
             </div>
         </body>
 
